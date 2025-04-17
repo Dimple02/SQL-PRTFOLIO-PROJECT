@@ -11,7 +11,7 @@ Enhancing SQL analysis with data visualizations
 MS Excel – Data preparation
 pgAdmin4 – PostgreSQL management and query execution
 
-🗃️ Database Tables
+🗃️ Database Tables:
 Books
 Customers
 Orders
@@ -20,7 +20,9 @@ Orders
 Examples of basic queries:
 
 Retrieve all books in the "Fiction" genre
+
 Find books published after 1950
+
 List all customers from Canada
 Show orders placed in November 2023
 Get the total stock of books available
