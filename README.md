@@ -20,9 +20,7 @@ Orders
 Examples of basic queries:
 
 Retrieve all books in the "Fiction" genre
-
 Find books published after 1950
-
 List all customers from Canada
 Show orders placed in November 2023
 Get the total stock of books available
